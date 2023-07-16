@@ -1,0 +1,15 @@
+{
+  "name": "exportexample",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "module to use for testing purposes",
+  "main": "spreadArrays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
